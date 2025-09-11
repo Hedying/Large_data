@@ -24,3 +24,6 @@ p2<-ggplot(STAR, aes(x=gender,y=readk)) +
   ylab("Count")
 library(gridExtra) 
 grid.arrange(p1,p2,ncol = 2, nrow = 1)
+
+
+efuhfuief
