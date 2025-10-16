@@ -10,3 +10,4 @@ data_filtered <- data[data$age > 10, ]
 # 保留math等于1的样本
 df_math <- data_filtered[data_filtered$Math == 1, ]
 
+#乱写呗i人覅u森覅u额
